@@ -1,2 +1,2 @@
 # curso-de-prog
- estudos
+ Estou aprendendo a criar sites e estudando para mais aprendizado!
