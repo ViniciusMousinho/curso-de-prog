@@ -1,3 +1,8 @@
 /*  Estilo para paisagem  */
 
 @charset "utf-8";
+
+body{
+    background: url(../imagens/cev-landscape.jpg);
+    background-position: left bottom;
+}
